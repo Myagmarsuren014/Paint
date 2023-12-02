@@ -1,4 +1,4 @@
-# flutter_application_1
+# flutter_application
 
 Paint app made by flutter and dart
 # Paint
